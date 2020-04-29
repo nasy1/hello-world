@@ -1,6 +1,3 @@
-# hello-world
-latihan
-<!doctype html>
 <html class="no-js" lang="en">
  <head> 
   <title>CV.REGENCY</title> 
